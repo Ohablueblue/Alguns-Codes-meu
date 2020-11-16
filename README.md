@@ -16,4 +16,4 @@ Utlizei js para codigo de pause em millisegundos
 ![Js](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
 
 Utilizei c para o code de reverse string
-![C](https://img.shields.io/badge/-C-black?style=flat&logo=C]
+![C](https://img.shields.io/badge/-C#-black?style=flat&logo=c#]
