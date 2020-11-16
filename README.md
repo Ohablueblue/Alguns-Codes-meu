@@ -15,5 +15,5 @@ Utilizei para forçar um codigo de erro
 Utlizei js para codigo de pause em millisegundos
 ![Js](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
 
-Utilizei c para o code de reverse string
-![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=CSharp]
+Utilizei c para o code de reverse string (botei c++ pq não conseguir por C sharp puro, merda de github)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=C++]
